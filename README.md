@@ -67,7 +67,7 @@ Instrucciones de Instalción
 Administration
 =
 
-I had a directory setup which was password protected, and contained the following scripts:
+Existe un directorio de configuración protegido por password, conteniendo los siguientes scripts:
 
 * APC Control Panel
 * eAccelerator Control Panel
@@ -75,7 +75,7 @@ I had a directory setup which was password protected, and contained the followin
 * SQL Buddy
 * phpinfo script
 
-These five scripts were all I needed to administrate the server. There shouldn't be much
+Estos cinco archivos son necesarios para la administracion del servidor. There shouldn't be much
 upkeep required, however. It takes care of itself pretty well.
 
 What Sucks?
