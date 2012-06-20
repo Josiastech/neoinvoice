@@ -16,12 +16,12 @@ like to give back? If any of these apply to you, feel free to donate here:
 
 https://www.wepay.com/donations/neoinvoice-donations
 
-What is NeoInvoice?
+¿Que es NeoInvoice?
 =
 
-NeoInvoice is a set of software tools useful to most online / service businsses. It is
-a single app, meant to be used by many different companies, each company having many
-different users, all having their own login credentials.
+NeoInvoice es un conjunto de herramientas de software útiles en negocios de servicio en linea. es
+una aplicación, destinada a ser utilizada por diferentes empresas, cada empresa teniendo sus diferentes 
+usuarios y cada uno de ellos tienen sus propias credenciales de ingreso.
 
 Screenshots and Video
 =
@@ -35,9 +35,9 @@ Features
 
 * Time Tracking
 * Issue Tickets
-* Email PDF Invoices
+* Facturas enviada por Email en versión PDF
 * Many Users
-* Configurable User Roles
+* Roles de Usuario Configurables
 * OS X Dashboard Widget for Entering Time
 * etc.
 
@@ -47,7 +47,7 @@ Technology Stack
 NeoInvoice is a PHP, MySQL, Memcache/APC app. It runs on a Linux server, and has been run
 using both lighttpd and apache.
 
-Installation
+Instrucciones de Instalción
 =
 
 * Set the root of the website to public/
